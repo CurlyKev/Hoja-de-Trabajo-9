@@ -161,3 +161,295 @@ INFORMACIÓN: Unsupported notification method: $/setTrace
 2026.05.22 18:53:41 INFO  Memory monitor stopped
 2026.05.22 18:53:41 INFO  shutting down Metals
 2026.05.22 18:53:41 INFO  Exiting server
+2026.05.22 18:54:27 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9' for client Visual Studio Code 1.121.0.
+2026.05.22 18:54:27 INFO  Memory monitor started
+2026.05.22 18:54:32 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.22 18:54:32 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:54:34 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:54:34 WARN  no build tool detected in workspace 'C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.05.22 18:54:34 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:54:34 WARN  Build server is not auto-connectable.
+2026.05.22 18:54:34 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java
+2026.05.22 18:54:34 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:54:34 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:54:35 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:54:37 INFO  time: code lens generation in 2.86s
+2026.05.22 18:54:38 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:54:41 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:54:44 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:54:47 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:54:49 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:54:49 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:55:06 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:55:06 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java
+2026.05.22 18:55:06 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:55:06 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:55:31 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:55:31 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java
+2026.05.22 18:55:31 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:55:31 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:55:31 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:56:25 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java
+2026.05.22 18:56:25 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:56:25 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+may 22, 2026 6:56:25 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 44
+2026.05.22 18:56:25 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:56:26 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:56:26 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+may 22, 2026 6:56:26 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 50
+2026.05.22 18:56:26 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+may 22, 2026 6:56:27 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/FloydWarshall.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+may 22, 2026 6:56:28 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/FloydWarshall.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.05.22 18:56:30 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FloydWarshall.java
+2026.05.22 18:56:30 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FloydWarshall.java. Using fallback presentation compiler.
+may 22, 2026 6:56:30 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 54
+2026.05.22 18:56:30 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FloydWarshall.java. Using fallback presentation compiler.
+2026.05.22 18:56:30 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FloydWarshall.java. Using fallback presentation compiler.
+2026.05.22 18:56:31 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FloydWarshall.java. Using fallback presentation compiler.
+2026.05.22 18:56:31 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FloydWarshall.java. Using fallback presentation compiler.
+may 22, 2026 6:56:32 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/Graph.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.05.22 18:56:32 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Graph.java
+2026.05.22 18:56:31 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Graph.java. Using fallback presentation compiler.
+2026.05.22 18:56:31 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Graph.java. Using fallback presentation compiler.
+may 22, 2026 6:56:32 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 66
+2026.05.22 18:56:31 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Graph.java. Using fallback presentation compiler.
+2026.05.22 18:56:33 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Graph.java. Using fallback presentation compiler.
+may 22, 2026 6:56:34 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 71
+may 22, 2026 6:56:34 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/Graph.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+may 22, 2026 6:56:34 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/Graph.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+may 22, 2026 6:56:35 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/GraphCenter.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.05.22 18:56:35 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java
+2026.05.22 18:56:35 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:56:35 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:56:35 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:56:35 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:56:36 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+may 22, 2026 6:56:36 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+ADVERTENCIA: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/Main.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.05.22 18:56:36 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:56:37 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java
+2026.05.22 18:56:36 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:56:36 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:56:38 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java
+2026.05.22 18:56:38 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
