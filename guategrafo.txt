@@ -1,0 +1,10 @@
+Guatemala Antigua 40
+Antigua Escuintla 30
+Escuintla SantaLucia 20
+SantaLucia Jutiapa 50
+Guatemala Chimaltenango 25
+Chimaltenango Quetzaltenango 60
+Quetzaltenango Huehuetenango 45
+Huehuetenango Peten 100
+Peten Coban 80
+Coban Guatemala 90

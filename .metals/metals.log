@@ -1,0 +1,135 @@
+2026.05.22 18:49:44 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9' for client Visual Studio Code 1.121.0.
+2026.05.22 18:49:44 INFO  Memory monitor started
+2026.05.22 18:49:49 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.22 18:49:51 WARN  no build tool detected in workspace 'C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.05.22 18:49:51 WARN  Build server is not auto-connectable.
+2026.05.22 18:49:51 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FloydWarshall.java
+2026.05.22 18:49:51 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Graph.java
+2026.05.22 18:49:52 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/Graph.java. Output:
+
+2026.05.22 18:49:52 INFO  time: code lens generation in 1.47s
+2026.05.22 18:49:53 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java
+2026.05.22 18:49:54 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/FloydWarshall.java. Output:
+
+2026.05.22 18:49:55 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/GraphCenter.java. Output:
+
+2026.05.22 18:49:55 INFO  time: code lens generation in 2.11s
+2026.05.22 18:50:00 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Graph.java
+2026.05.22 18:50:03 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java
+2026.05.22 18:50:03 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/Main.java. Output:
+
+2026.05.22 18:50:08 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java
+2026.05.22 18:50:08 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:08 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:08 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:09 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/GraphCenter.java. Output:
+
+may 22, 2026 6:50:10 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 30
+2026.05.22 18:50:10 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:10 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java
+2026.05.22 18:50:10 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/FileReaderGraph.java. Output:
+
+2026.05.22 18:50:10 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java
+2026.05.22 18:50:10 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:50:10 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+may 22, 2026 6:50:10 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 40
+2026.05.22 18:50:10 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:50:11 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:50:11 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/FileReaderGraph.java. Output:
+
+2026.05.22 18:50:19 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java
+2026.05.22 18:50:19 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/test/GraphTest.java. Output:
+
+2026.05.22 18:50:19 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:50:19 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:50:21 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/test/GraphTest.java. Output:
+
+2026.05.22 18:50:22 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:50:22 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:50:23 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:50:23 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:23 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java
+2026.05.22 18:50:23 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:23 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:24 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:50:24 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java
+2026.05.22 18:50:24 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:50:24 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:50:25 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Graph.java
+2026.05.22 18:50:26 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FloydWarshall.java
+2026.05.22 18:50:27 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:50:27 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java
+2026.05.22 18:50:27 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:50:27 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:50:38 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Graph.java
+2026.05.22 18:50:40 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Graph.java. Using fallback presentation compiler.
+2026.05.22 18:50:40 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Graph.java. Using fallback presentation compiler.
+may 22, 2026 6:50:40 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 100
+2026.05.22 18:50:40 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Graph.java. Using fallback presentation compiler.
+2026.05.22 18:50:40 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/Graph.java. Output:
+
+2026.05.22 18:50:41 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Graph.java. Using fallback presentation compiler.
+2026.05.22 18:50:46 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FloydWarshall.java
+2026.05.22 18:50:47 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FloydWarshall.java. Using fallback presentation compiler.
+2026.05.22 18:50:47 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FloydWarshall.java. Using fallback presentation compiler.
+2026.05.22 18:50:49 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FloydWarshall.java. Using fallback presentation compiler.
+2026.05.22 18:50:55 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/FloydWarshall.java. Output:
+
+2026.05.22 18:50:56 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:56 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java
+2026.05.22 18:50:56 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:56 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:57 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:57 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:57 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:58 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:58 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:58 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:58 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\GraphCenter.java. Using fallback presentation compiler.
+2026.05.22 18:50:58 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/GraphCenter.java. Output:
+
+2026.05.22 18:51:06 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:51:06 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java
+2026.05.22 18:51:06 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:51:06 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:51:07 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:51:07 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:51:07 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:51:08 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:51:08 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+may 22, 2026 6:51:08 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 151
+2026.05.22 18:51:08 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:51:09 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\FileReaderGraph.java. Using fallback presentation compiler.
+2026.05.22 18:51:15 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:51:15 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java
+2026.05.22 18:51:15 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:51:15 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:51:15 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/Main.java. Output:
+
+2026.05.22 18:51:16 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:51:16 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:51:16 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:51:17 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:51:17 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:51:17 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:51:17 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/src/Main.java. Output:
+
+2026.05.22 18:51:18 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\src\Main.java. Using fallback presentation compiler.
+2026.05.22 18:51:26 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:51:26 WARN  no build target for: C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java
+2026.05.22 18:51:26 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:51:26 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:51:27 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:51:27 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:51:27 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:51:27 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:51:27 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:51:27 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:51:28 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
+2026.05.22 18:51:28 WARN  Running javac-semanticdb failed for file:///C:/Users/kmgua/OneDrive/Escritorio/Hoja-de-Trabajo-9/test/GraphTest.java. Output:
+
+2026.05.22 18:51:28 INFO  no build target found for C:\Users\kmgua\OneDrive\Escritorio\Hoja-de-Trabajo-9\test\GraphTest.java. Using fallback presentation compiler.
